@@ -1,3 +1,9 @@
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.19.2-green.svg)](https://minecraft.net)
+[![Forge](https://img.shields.io/badge/Forge-43.2.0+-orange.svg)](https://files.minecraftforge.net)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hypopheria2k/SeasonHUD-1.19.2/blob/main/LICENSE)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-lightgrey?logo=github)](https://github.com/hypopheria2k/SeasonHUD-1.19.2)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?logo=modrinth)](DEIN_LINK)
+[![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?logo=curseforge)](DEIN_LINK)
 # SeasonHUD (1.19.2)
 
 A lightweight, highly customizable HUD for Minecraft 1.19.2 that enhances the **Serene Seasons** experience. It provides essential data for farming, survival, and immersion without cluttering the screen.
