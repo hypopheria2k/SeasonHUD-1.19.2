@@ -2,7 +2,7 @@
 [![Forge](https://img.shields.io/badge/Forge-43.2.0+-orange.svg)](https://files.minecraftforge.net)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hypopheria2k/SeasonHUD-1.19.2/blob/main/LICENSE)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-lightgrey?logo=github)](https://github.com/hypopheria2k/SeasonHUD-1.19.2)
-[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?logo=modrinth)](DEIN_LINK)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?logo=modrinth)](https://modrinth.com/mod/serene-seasons-hud)
 [![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?logo=curseforge)](DEIN_LINK)
 **[![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gVHefyjsRg)**
 # SeasonHUD (1.19.2)
