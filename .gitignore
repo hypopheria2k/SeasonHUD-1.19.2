@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# IDE - Eclipse
+.settings/
+.metadata/
+.classpath
+.project
+
+# Minecraft/Forge specific
+run/
+libs/
+userdevs.args
+gradle.properties
+# Nur gradle.properties ausschließen, wenn du dort private API-Keys o.ä. speicherst.
+# Falls nur Standard-Werte drin stehen, kannst du es drin lassen.
+
+# OS specific
+.DS_Store
+Thumbs.db
