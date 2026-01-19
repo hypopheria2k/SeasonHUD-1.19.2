@@ -4,6 +4,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-lightgrey?logo=github)](https://github.com/hypopheria2k/SeasonHUD-1.19.2)
 [![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?logo=modrinth)](DEIN_LINK)
 [![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?logo=curseforge)](DEIN_LINK)
+**[![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gVHefyjsRg)**
 # SeasonHUD (1.19.2)
 
 ![output](https://github.com/user-attachments/assets/3c8c5b49-022d-42e5-ae10-4480088fdb4c)
