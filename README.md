@@ -6,6 +6,8 @@
 [![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?logo=curseforge)](DEIN_LINK)
 # SeasonHUD (1.19.2)
 
+![output](https://github.com/user-attachments/assets/3c8c5b49-022d-42e5-ae10-4480088fdb4c)
+
 A lightweight, highly customizable HUD for Minecraft 1.19.2 that enhances the **Serene Seasons** experience. It provides essential data for farming, survival, and immersion without cluttering the screen.
 
 ## 🚀 Features
